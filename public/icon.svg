@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <!-- Camera / Upload icon -->
+  <rect x="106" y="148" width="300" height="236" rx="44" fill="#ffffff" />
+  <circle cx="256" cy="272" r="64" fill="#047857" />
+  <circle cx="256" cy="272" r="44" fill="#ffffff" />
+  <circle cx="256" cy="272" r="28" fill="#10b981" />
+  <circle cx="340" cy="196" r="16" fill="#10b981" />
+  <path d="M180 148 L210 110 L302 110 L332 148 Z" fill="#ffffff" />
+  <!-- Upload arrow overlay in corner -->
+  <circle cx="380" cy="380" r="48" fill="#10b981" stroke="#ffffff" stroke-width="8" />
+  <path d="M380 354 L362 376 L374 376 L374 404 L386 404 L386 376 L398 376 Z" fill="#ffffff" />
+</svg>

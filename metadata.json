@@ -1,0 +1,10 @@
+{
+  "name": "Simple Image Uploader",
+  "description": "A simple and modern image uploader and gallery designed for Android devices with instant preview, metadata inspection, and step-by-step APK build guide.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
